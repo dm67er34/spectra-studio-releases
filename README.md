@@ -3,6 +3,9 @@
 This repository hosts the **signed official builds** of Spectra Studio, a GPU photo and video editing and colour-grading suite by **Miguel**.
 The source code is private; only release files are published here.
 
+## Use it in your browser
+**https://spectra-studio.mseonj64.workers.dev**: no install needed, and it works offline after the first visit.
+
 ## Downloads
 Open the [latest release](https://github.com/dm67er34/spectra-studio-releases/releases/latest):
 
