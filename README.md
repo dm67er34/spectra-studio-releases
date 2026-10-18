@@ -4,7 +4,7 @@ This repository hosts the **signed official builds** of Spectra Studio, a GPU ph
 The source code is private; only release files are published here.
 
 ## Use it in your browser
-**https://spectrastudio.online/ no install needed, and it works offline after the first visit.
+https://spectrastudio.online/ no install needed, and it works offline after the first visit.
 
 ## Downloads
 Open the [latest release](https://github.com/dm67er34/spectra-studio-releases/releases/latest):
