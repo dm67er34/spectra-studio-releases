@@ -1,6 +1,6 @@
 # Spectra Studio — Official Releases
 
-This repository hosts the **signed official builds** of Spectra Studio, a GPU photo and video editing and colour-grading suite by **Miguel**.
+This repository hosts the **signed official builds** of Spectra Studio, a photo and video editing and colour-grading suite.
 The source code is private; only release files are published here.
 
 ## Use it in your browser
@@ -45,4 +45,4 @@ for (const [name, a] of Object.entries(m.assets)) if (fs.existsSync(name))
   console.log(name, crypto.createHash('sha256').update(fs.readFileSync(name)).digest('hex') === a.sha256 ? 'OK' : 'MISMATCH');
 ```
 
-© Miguel. All rights reserved.
+© Spectra Studio. All rights reserved.
